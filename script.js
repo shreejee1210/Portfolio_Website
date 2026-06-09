@@ -23,5 +23,5 @@ document.querySelectorAll(
 
 // ── Contact Form Submit ──
 function handleFormSubmit() {
-  alert('Thank you! Please email me directly at sriom9410603644@gmail.com');
+  alert('Thank you! Please email me directly at shreejee7906986152@gmail.com');
 }
